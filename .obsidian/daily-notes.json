@@ -1,0 +1,5 @@
+{
+  "format": "/yyyy/MM/yyyy-MM-DD",
+  "autorun": true,
+  "template": "2025/template/daily-template"
+}
